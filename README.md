@@ -1,0 +1,1 @@
+To install open this dir with VSCOde and it will suggest to install all extensions
