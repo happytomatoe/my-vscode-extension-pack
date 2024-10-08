@@ -1,0 +1,31 @@
+{
+  "name": "my-extension-pack",
+  "displayName": "my-extension-pack",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "alefragnani.numbered-bookmarks", 
+    "codeandstuff.vscode-navigate-edit-history", 
+    "digoro.clipboard", 
+    "donjayamanne.githistory", 
+    "eamodio.gitlens", 
+    "github.github-vscode-theme", 
+    "gruntfuggly.todo-tree", 
+    "hbenl.vscode-test-explorer", 
+    "ibm.output-colorizer", 
+    "k--kato.intellij-idea-keybindings", 
+    "ms-vscode.test-adapter-converter", 
+    "redhat.vscode-yaml", 
+    "streetsidesoftware.code-spell-checker", 
+    "tabnine.tabnine-vscode", 
+    "visualstudioexptteam.intellicode-api-usage-examples", 
+    "visualstudioexptteam.vscodeintellicode", 
+    "wakatime.vscode-wakatime"
+  ]
+}
